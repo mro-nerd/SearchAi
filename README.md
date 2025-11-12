@@ -74,7 +74,8 @@ npm install
 
 ## Preview
 
-![SearchAI preview](./searchAi_preview.png)
+<img width="1536" height="1024" alt="searchAi_preview" src="https://github.com/user-attachments/assets/7794ac5b-c57d-4de8-b27f-9221025603e6" />
+
 
 ## 🤝 Contributing
 

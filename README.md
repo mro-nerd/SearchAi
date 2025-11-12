@@ -57,7 +57,7 @@ This project follows a client-server architecture:
 ```bash
 cd ../client
 npm install
-
+```
 ### Running the Application
 
 1. **Start the server**

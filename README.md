@@ -74,7 +74,7 @@ npm install
 
 ## Preview
 
-
+![SearchAI preview](./searchAi_preview.png)
 
 ## 🤝 Contributing
 
